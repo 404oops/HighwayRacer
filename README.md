@@ -3,7 +3,7 @@
 #### Copyright - me@404oops.com
 My first game in Windows Forms - Made for a school project!
 
-![](https://soa.404oops.com/?user=404oops)
+![](https://soa.404oops.com/?user=404oops&)
 
 This game features things a real car does, such as a gas, brake, even a handbrake and cruise control. It even makes sure a key is in before starting the game.
 
